@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheScouts-backend", "TheScouts-backend\TheScouts-backend.csproj", "{48FF7D69-B8EF-4D49-9F6D-6E23C5AFAE6F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheScouts", "TheScouts\TheScouts.csproj", "{48FF7D69-B8EF-4D49-9F6D-6E23C5AFAE6F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

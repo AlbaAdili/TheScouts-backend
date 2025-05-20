@@ -487,11 +487,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alba/RiderProjects/TheScouts-backend/TheScouts-backend/TheScouts-backend.csproj",
-      "projectName": "TheScouts-backend",
-      "projectPath": "/Users/alba/RiderProjects/TheScouts-backend/TheScouts-backend/TheScouts-backend.csproj",
+      "projectUniqueName": "/Users/alba/RiderProjects/TheScouts-backend/TheScouts/TheScouts.csproj",
+      "projectName": "TheScouts",
+      "projectPath": "/Users/alba/RiderProjects/TheScouts-backend/TheScouts/TheScouts.csproj",
       "packagesPath": "/Users/alba/.nuget/packages/",
-      "outputPath": "/Users/alba/RiderProjects/TheScouts-backend/TheScouts-backend/obj/",
+      "outputPath": "/Users/alba/RiderProjects/TheScouts-backend/TheScouts/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/alba/.nuget/NuGet/NuGet.Config"
